@@ -1,5 +1,14 @@
 # watch_me
 
+<img src="https://github.com/Bhismydv/watch_me/blob/main/loading.jpeg" width="350" title="hover text">
+Loading Screen
+
+<img src="https://github.com/Bhismydv/watch_me/blob/main/location.jpeg" width="350" title="hover text">
+Pick A Location
+
+<img src="https://github.com/Bhismydv/watch_me/blob/main/mainscreen.jpeg" width="350" title="hover text">
+Show City and Time
+
 A new Flutter application.
 
 ## Getting Started
