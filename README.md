@@ -13,7 +13,7 @@ Show City and Time
 <img src="https://github.com/Bhismydv/watch_me/blob/main/mainscreen.jpeg" width="200" title="hover text">
 
 example demo
-<img src="https://github.com/Bhismydv/watch_me/blob/main/WhatsApp%20Image%202023-01-21%20at%208.24.33%20PM.jpeg">
+<img src="https://github.com/Bhismydv/watch_me/blob/main/WhatsApp%20Image%202023-01-21%20at%208.24.33%20PM.jpeg" width="200" title="hover text">
 
 A new Flutter application.
 
